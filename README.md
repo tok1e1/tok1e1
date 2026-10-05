@@ -10,16 +10,16 @@ Currently designing the data platform architecture at **ПРОФИНТЕХ**.
 
 ### Experience
 
-**ПРОФИНТЕХ** — *Data Architect / Go Developer* · May 2025 – present
+**ПРОФИНТЕХ** — *Data Architect / Go Developer* · May 2025 – present<br>
 Architecture of the company's data platform; evolving and configuring the system our team built earlier.
 
-**Directum** — *Middle Go Developer* · Feb 2024 – Apr 2025
+**Directum** — *Middle Go Developer* · Feb 2024 – Apr 2025<br>
 Electronic document management system (EDMS). Extracted bottlenecks out of the monolith into Go services.
 - Document processing service (conversion, PDF generation) with a worker pool and async processing over RabbitMQ — **−40% processing time**
 - Employee onboarding automation with parallel document generation — **−60% SLA**
 - gRPC between services, event-driven integration with the monolith; PostgreSQL partitioning and batching — **3× faster queries**
 
-**ПРОФИНТЕХ** — *Middle Go Developer* · Nov 2022 – Feb 2024
+**ПРОФИНТЕХ** — *Middle Go Developer* · Nov 2022 – Feb 2024<br>
 Digital platform for a large real-estate developer: from construction tracking to handing apartments over to clients.
 - Microservices for a 3D apartment configurator with Redis caching — **+25% sales conversion**
 - Integrations with CRM, accounting and banking services (REST, GraphQL) — **−70% mortgage approval time**
